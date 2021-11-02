@@ -80,7 +80,7 @@
     "minimaldata": "^1.0.2",
     "mocha": "^7.1.1",
     "nyc": "^15.0.0",
-    "prettier": "1.16.4",
+    "prettier": "2.4.1",
     "proxyquire": "^2.0.1",
     "regtest-client": "0.2.0",
     "rimraf": "^2.6.3",
