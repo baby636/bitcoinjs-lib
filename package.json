@@ -51,7 +51,7 @@
   "dependencies": {
     "bech32": "^2.0.0",
     "bip174": "^2.0.1",
-    "bip32": "^2.0.4",
+    "bip32": "^3.0.0",
     "bip66": "^1.1.0",
     "bitcoin-ops": "^1.4.0",
     "bs58check": "^2.0.0",
@@ -60,7 +60,7 @@
     "merkle-lib": "^2.0.10",
     "pushdata-bitcoin": "^1.0.1",
     "randombytes": "^2.0.1",
-    "tiny-secp256k1": "^1.1.6",
+    "tiny-secp256k1": "^2.0.0",
     "typeforce": "^1.11.3",
     "varuint-bitcoin": "^1.0.4",
     "wif": "^2.0.1"
@@ -78,8 +78,8 @@
     "dhttp": "^3.0.0",
     "hoodwink": "^2.0.0",
     "minimaldata": "^1.0.2",
-    "mocha": "^7.1.1",
-    "nyc": "^15.0.0",
+    "mocha": "^9.1.2",
+    "nyc": "^17.0.0",
     "prettier": "1.16.4",
     "proxyquire": "^2.0.1",
     "regtest-client": "0.2.0",
